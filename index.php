@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1>My Git Branch</h1>
+
+    <footer>
+
+    &copy; <?php echo date('Y'); ?> The spectacular me
+
+</footer>
 </body>
 </html>
