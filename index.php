@@ -7,6 +7,6 @@
     <title>Git Branching</title>
 </head>
 <body>
-    
+    <h1>My Git Branch</h1>
 </body>
 </html>
